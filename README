@@ -1,0 +1,34 @@
+este es un repositorio de ejemplos en JAVA para ilustrar y mostrar casos en los
+que se usa los patrones de diseño GOF, o por lo menos los siguientes patrones.
+
+Creación:
+
+Abstract Factory.
+Builder
+Factory method
+Prototype
+singleton
+
+Estructurales:
+
+Adapter
+Bridge
+composite
+Decorator
+Facade
+Flyweight
+proxy
+
+Comportamiento:
+
+Chain of responsibility
+Command
+Interpreter
+Iterator
+Mediator
+Memento
+Observer
+State
+Strategy
+Template Method
+Visitor
