@@ -1,0 +1,5 @@
+el siguiente es un programa que crea 1'000.000 de cuadros del mismo tamaño con posiciones aleatorias
+y ademas los pinta en pantalla.
+
+para ver la diferencia entre ejecutar el programa con flyweight y sin El, es recomendabel abrir
+el Administrador de tareas de tu sistema operativo, para que veas cuantos recursos consume el programa en cada caso. 
