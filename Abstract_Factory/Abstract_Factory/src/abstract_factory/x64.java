@@ -9,13 +9,9 @@ package abstract_factory;
  *
  * @author sorti
  */
-public class Abstract_Factory {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-    }
-    
+public class x64 implements Arquitectura {
+   @Override
+   public void startup() {
+      System.out.println("64 bits::startup() method.");
+   }
 }
