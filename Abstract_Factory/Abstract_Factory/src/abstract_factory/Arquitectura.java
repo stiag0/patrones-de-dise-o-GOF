@@ -10,5 +10,5 @@ package abstract_factory;
  * @author sorti
  */
 public interface Arquitectura {
-    void startup();
+    void boot();
 }

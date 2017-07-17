@@ -9,9 +9,6 @@ package abstract_factory;
  *
  * @author sorti
  */
-public class x86 implements Arquitectura {
-   @Override
-   public void boot() {
-      System.out.println("32 bits::boot() method.");
-   }
+public class Windows {
+    
 }

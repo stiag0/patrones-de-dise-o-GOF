@@ -11,7 +11,7 @@ package abstract_factory;
  */
 public class x64 implements Arquitectura {
    @Override
-   public void startup() {
-      System.out.println("64 bits::startup() method.");
+   public void boot() {
+      System.out.println("64 bits::boot() method.");
    }
 }
